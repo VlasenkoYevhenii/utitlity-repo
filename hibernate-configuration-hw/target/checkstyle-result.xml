@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\dao\MovieDao.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\dao\MovieDaoImpl.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\exception\DataProcessingException.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\lib\Dao.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\lib\Inject.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\lib\Injector.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\lib\Service.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\Main.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\model\Movie.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\services\movie\MovieService.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\services\movie\MovieServiceImpl.java">
+</file>
+<file name="C:\javaProjects\hibernate-configuration-hw\src\main\java\mate\academy\util\HibernateUtil.java">
+</file>
+</checkstyle>

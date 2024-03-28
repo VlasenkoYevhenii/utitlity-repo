@@ -1,0 +1,7 @@
+mate\academy\FunctionalityTest.class
+mate\academy\AbstractTest$HsqldbDataSourceProvider.class
+mate\academy\AbstractTest$DataSourceProvider$IdentifierStrategy.class
+mate\academy\AbstractTest$DataSourceProvider.class
+mate\academy\StructureTest.class
+mate\academy\AbstractTest$DataSourceProvider$Database.class
+mate\academy\AbstractTest.class

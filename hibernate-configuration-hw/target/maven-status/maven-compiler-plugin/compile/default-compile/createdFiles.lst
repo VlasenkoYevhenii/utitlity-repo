@@ -1,0 +1,12 @@
+mate\academy\services\movie\MovieService.class
+mate\academy\exception\DataProcessingException.class
+mate\academy\model\Movie.class
+mate\academy\dao\MovieDaoImpl.class
+mate\academy\services\movie\MovieServiceImpl.class
+mate\academy\lib\Dao.class
+mate\academy\Main.class
+mate\academy\util\HibernateUtil.class
+mate\academy\lib\Service.class
+mate\academy\lib\Inject.class
+mate\academy\dao\MovieDao.class
+mate\academy\lib\Injector.class
